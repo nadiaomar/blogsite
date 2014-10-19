@@ -5,6 +5,28 @@ tagline: Celebrating 100 Years at Georgia Tech
 ---
 {% include JB/setup %}
 
+
+
+<div class="wrapper">
+  <div class="jcarousel-wrapper">
+      <div class="jcarousel">
+          <ul>
+            <li><img src="assets/images/favicon.png"/></li>
+            <li><img src="assets/images/banner.png"/></li>
+            <li><img src="assets/images/ieee.jpg"/></li>
+            <li><img src="assets/images/logo.png"/></li>
+          </ul>
+      </div>
+
+      <a href="#" class="jcarousel-control-prev">&lsaquo;</a>
+      <a href="#" class="jcarousel-control-next">&rsaquo;</a>
+      
+      <!-- <p class="jcarousel-pagination">
+          
+      </p> -->
+  </div>
+</div>
+
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)

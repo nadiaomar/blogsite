@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hardware"
-group: navigation
+group: teams
 ---
 {% include JB/setup %}
 ##WE BUILD ROBOTS

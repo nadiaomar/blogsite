@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Innovation"
-group: navigation
+group: teams
 ---
 {% include JB/setup %}
 ##BUILD ALL THE THINGS
