@@ -69,7 +69,7 @@
         width: 30px;
         height: 30px;
         text-align: center;
-        background: #4E443C;
+        background: #052846;
         color: #fff;
         text-decoration: none;
         text-shadow: 0 0 1px #000;
@@ -90,8 +90,13 @@
         right: -50px;
     }
 
-    .jcarousel-control-prev:hover span,
-    .jcarousel-control-next:hover span {
+    a.jcarousel-control-prev:hover, a.jcarousel-control-next:hover {
+        color: #fff;
+        /*background: #052846;*/
+    }
+
+    .jcarousel-control-prev:hover,
+    .jcarousel-control-next:hover {
         display: block;
     }
 
