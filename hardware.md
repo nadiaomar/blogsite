@@ -14,7 +14,8 @@ Check out our [Wiki](http://ieee-hardware.gatech.edu/wiki/Main_Page) if you’re
 
 Feel free to contact our Team Captains for suggestions and questions:
 
-_Jay Poddar & Tianhao Li_ : <hardware@ieee.gatech.edu> <br/>
+_Jay Poddar & Tianhao Li_ <br/>
+<jayvpoddar@gatech.edu> & <tli81@gatech.edu> <br/>
 
 <br/>
 __Meetings__ <br/>

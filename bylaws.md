@@ -38,7 +38,7 @@ __Article I. Qualifications for being elected to an executive officer position__
 4. In addition to completing at least a full term, candidates for the position of Branch Chair must have at least junior standing with the Institute. Other executive officers must have at least sophomore standing.
 5. At no time may all the executive officers be graduating seniors. In the absence of otherwise qualified executive officer candidates who are not graduating seniors, rule #3 above may be relaxed.
 
-<em><div class="center">Co-ops/interns</div></em>
+<div class="center"><em>Co-ops/interns</em></div>
 
  1. Any prospective committee chair may co-op or intern during the school year (fall or spring semester), provided s/he is working in the Atlanta area and can fulfill his/her branch duties and transition duties as outlined below.
  2. No executive officer may co-op or intern during the fall or spring term while simultaneously serving his/her term in office.

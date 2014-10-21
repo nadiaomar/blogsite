@@ -13,8 +13,7 @@ __Being a Leader__ - Numerous leadership activities await you in the Georgia Tec
 
 __Becoming a Member__ - IEEE membership is open to professionals with varying levels of academic accomplishment and work experience. Student members have substantially discounted dues and fees far below what other members pay. You are also able to join specialized IEEE committees that focus on your specialization. There are no grade or experience requirements so what are you waiting for?
 
-<h3><a href="../join.html">Sign up Today</a></h3>
+<h3><a href="./membership.html">Sign up Today</a></h3>
 
-[join]: ../join
 
-Feel free to also check out our [Bylaws](../bylaws.html) if you're interested in our leadership opportunities.
+Feel free to also check out our [Bylaws](/bylaws.html) if you're interested in our leadership opportunities.

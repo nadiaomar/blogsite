@@ -51,7 +51,7 @@ _Harsha Nori, Madeleyne Vaca, & Max Bires_ <br/>
 
 __Hardware Team Captains__ <br/>
 _Jay Poddar & Tianhao Li_ <br/>
-<Jayvpoddar@gatech.edu> & <tli81@gatech.edu> <br/>
+<jayvpoddar@gatech.edu> & <tli81@gatech.edu> <br/>
 
 __Tutoring Services Chairs__ <br/>
 _Ramprasath Rajagopal & Chris Allen_ <br/>
