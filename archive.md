@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Archive"
+title: "Archives"
 group: navigation
 ---
 {% include JB/setup %}

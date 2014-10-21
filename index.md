@@ -32,6 +32,8 @@ tagline:
   </div>
 </div>
 
-###What's IEEE?
-<p class="lead">Founded in 1884, The Institute of Electrical and Electronics Engineers is the world's largest technical professional community. IEEE at Georgia Tech is a student branch of National IEEE with over 800 members, making GT IEEE the largest student branch in the nation AND in the <em>western hemisphere</em>. IEEE at Georgia Tech has also been recognized as Outstanding Student Branch of the year and Exemplary Student Branch 4 years running. For a shining future, Georgia Tech IEEE needs you! Don't wait. Join GT IEEE. Your participation shapes the future of GT IEEE.
-</p>
+##So What's IEEE?
+Founded in 1884, The Institute of Electrical and Electronics Engineers is the world's largest technical professional community. IEEE at Georgia Tech is a student branch of National IEEE with over 800 members, making GT IEEE the largest student branch in the nation AND in the <em>western hemisphere</em>. IEEE at Georgia Tech has also been recognized as Outstanding Student Branch of the year and Exemplary Student Branch 4 years running. For a shining future, Georgia Tech IEEE needs you! Don't wait. Join GT IEEE. Your participation shapes the future of GT IEEE.
+
+
+Learn more [about us](/about.html) and become a [member](/membership.html), or feel free to check out our opportunities in the [Innovation](/innovation.html) and [Hardware](/hardware.html) teams.
