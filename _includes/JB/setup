@@ -2,6 +2,7 @@
   <!--
   - Dynamically set liquid variables for working with URLs/paths
   -->
+  {% assign emails = site.emails %}
   {% if site.JB.setup.provider == "custom" %}
     {% include custom/setup %}
   {% else %}

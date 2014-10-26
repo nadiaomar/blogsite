@@ -17,6 +17,7 @@ Students of ALL MAJORS and ALL EXPERIENCE LEVELS are welcome to join us and cont
 Feel free to contact our Team Captains for suggestions and questions:
 
 _Harsha Nori, Madeleyne Vaca, & Max Bires_ <br/>
+<innovation@ieee.gatech.edu> <br/>
 <harsha@gatech.edu>, <mvaca3@gatech.edu>, & <jbires6@gatech.edu> <br/>
 
 <br/>

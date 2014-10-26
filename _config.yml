@@ -17,6 +17,25 @@ author :
   twitter : username
   feedburner : feedname
 
+
+# Custom emails
+emails:
+  chair: chair@ieee.gatech.edu
+  vce: vce@ieee.gatech.edu
+  assistantexternal: assistantexternal@ieee.gatech.edu
+  vci: vci@ieee.gatech.edu
+  treasurer: treasurer@ieee.gatech.edu
+  secretary: secretary@ieee.gatech.edu
+  involvement: involvement@ieee.gatech.edu
+  techdev: technical@ieee.gatech.edu
+  communication: communication@ieee.gatech.edu
+  webmaster: webmaster@ieee.gatech.edu
+  innovation: innovation@ieee.gatech.edu
+  hardware: hardware@ieee.gatech.edu
+  tutoring: tutoring@ieee.gatech.edu
+  ccna: ccna@ieee.gatech.edu
+  faculty: faculty@ieee.gatech.edu
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
