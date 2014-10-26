@@ -116,3 +116,9 @@ __All tutoring will take place in the Fish Bowl (_Van Leer W100_)__
     </tbody>
 
 </table>
+<br/>
+Feel free to contact our Tutoring Chairs for any questions or suggestions:
+
+_Ramprasath Rajagopal & Chris Allen_ <br/>
+<tutoring@ieee.gatech.edu> <br/>
+<rrajagopal6@gatech.edu> & <cjallen@gatech.edu> <br/>

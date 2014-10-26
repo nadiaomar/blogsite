@@ -40,11 +40,11 @@ Learn more [about us](/about.html) and become a [member](/membership.html), or f
 
 ###What Goes on in IEEE?
 
-Here are some of our latest postings. Be sure to keep up with our newsletter and our [Facebook page](https://www.facebook.com/gtieee?fref=photo) to keep up to date with all of our events.
+Here are some of our latest happenings and postings. Be sure to keep up with our newsletter and our [Facebook page](https://www.facebook.com/gtieee?fref=photo) to keep up to date with all of our events. Our [archives](/archives) pages has more of what you're looking for.
 
 <ul class="posts">
   {% for post in site.posts %}
-    {% if forloop.index <= 4 %}
+    {% if forloop.index <= 3 %}
     <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
