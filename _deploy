@@ -1,0 +1,13 @@
+echo "Building
+
+"
+
+jekyll build
+
+echo "
+
+Deploying
+
+"
+# scp -r _site/* mosakhi@sakhi.es:/home/mosakhi/public_html/osama/
+scp -r _site/* ieee@ieee.gatech.edu:/httpsdocs

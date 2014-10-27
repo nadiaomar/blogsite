@@ -1,25 +1,15 @@
 ---
-layout: page
-title: "Contact Us"
-group: navigation
+layout: post
+title: "Mail Server Restored"
+description: ""
+category: General
+tags: [Alerts, Email]
 ---
 {% include JB/setup %}
-Need to reach out to us immediately for Sponsorships, Workshops, Job Opportunities, and more? Email's the way to go!
 
-__Email:__ <vce@ieee.gatech.edu>
+###Great News!
 
-
-Stopping by Georgia Tech? Looking for our office?
-
-<address>
-  <strong>Georgia Tech IEEE Student Branch</strong><br>
-  350267 Georgia Tech Station<br>
-  Atlanta, Georgia 30332<br>
-</address>
-
-<hr/>
-###Officer Board for the 2014 - 2015 School Year
-Feel free to leave comments and suggestions with any of our lovely officers.
+Our mail server is up and running again, so all @ieee.gatech.edu email addresses are working once again. Here are all the officers and their corresponding email addresses:
 
 __Chair__ <br/>
 _Dorrier Coleman_ <br/>
@@ -84,4 +74,3 @@ _Yuqing Peng_ <br/>
 __Faculty Advisor__ <br/>
 _Dr. Elliot Moore_ <br/>
 <faculty@ieee.gatech.edu> <br/>
-

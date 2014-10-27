@@ -5,6 +5,9 @@ category: General
 tags: [Alerts, Email]
 ---
 {% include JB/setup %}
+
+### Alert
+
 We are experiencing some technical difficulties with our mailing server at this time, so emails directed towards certain officers must go to their Georgia Tech emails at this time:
 
 We apologize for the inconvenience, but their emails have been listen below:
