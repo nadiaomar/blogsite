@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-<img src="/assets/images/post_imgs/ieee_ball_dec2014.jpg" />
+<img src="/assets/images/ieee_ball_dec2014.jpg" />
 
 
 Come celebrate 100 years of IEEE with us on Friday, __February 6th, 2015__ from
