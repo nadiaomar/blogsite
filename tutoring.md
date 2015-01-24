@@ -22,98 +22,108 @@ __All tutoring will take place in the Fish Bowl (_Van Leer W100_)__
     <tbody>
     	<tr>
 	    	<td>2020</td>
-			<td>Mon 4-6pm <br/>Tues 10am-12pm</td>
-			<td>Hari <br/>Tom</td>
+			<td>Tues 12 - 2pm <br/>Wed 12 - 2pm</td>
+			<td>Shashank <br/>Daniel</td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>2026</td>
-			<td>Mon 10am-12pm <br/>Thurs 3-5pm</td>
-			<td>Suyoung <br/>Huijie</td>
+			<td>Tues 12 - 2pm <br/>Wed 4 - 6pm <br/>Thurs 3 - 5pm</td>
+			<td>Mohit <br/>Ashwin <br/>Huijie</td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>2035</td>
-			<td>Fri 3-5pm</td>
-			<td>Ikenna</td>
+			<td>Thurs 1 - 3pm <br/>Fri 3 - 5pm</td>
+			<td>Harsha <br/>Ikenna</td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>2036</td>
-			<td>Mon 6-8pm <br/>Wed 3-5pm</td>
-			<td>Ed <br/>Jheewon</td>
+			<td>Tues 3 - 5pm <br/>Wed 3:30 - 5:30pm <br/>Fri 2 - 4pm</td>
+			<td>Jheewon <br/>John <br/>Chris</td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>2040</td>
-			<td>Tues 2-4pm <br/>Thurs 11am-1pm</td>
-			<td>Alexandro <br/>Arjun</td>
-		</tr>
-    </tbody>
-
-    <tbody>
-    	<tr>
-	    	<td>3710</td>
-			<td>Mon 4-6pm <br/>Tues 2-4pm</td>
-			<td>John <br/>Brenton</td>
-		</tr>
-    </tbody>
-
-    <tbody>
-    	<tr>
-	    	<td>3025</td>
-			<td>Thurs 10am-12pm <br/>Fri 1-3pm</td>
-			<td>James <br/>Pavel</td>
-		</tr>
-    </tbody>
-
-    <tbody>
-    	<tr>
-	    	<td>3040</td>
-			<td>Mon 2-4pm <br/>Thurs 2-4pm</td>
-			<td>Jacob <br/>Lee</td>
-		</tr>
-    </tbody>
-
-    <tbody>
-    	<tr>
-	    	<td>3043</td>
-			<td>Tues 10am-12pm <br/>Thurs 1-3pm</td>
-			<td>Chris <br/>Shai</td>
-		</tr>
-    </tbody>
-
-    <tbody>
-    	<tr>
-	    	<td>3084</td>
-			<td>Fri 2-4pm</td>
-			<td>John</td>
-		</tr>
-    </tbody>
-
-    <tbody>
-    	<tr>
-	    	<td>3072</td>
-			<td>Mon 6-7pm, 8-9pm</td>
-			<td>Andy</td>
+			<td>Tues 12 - 2pm <br/>Tues 2 - 4pm <br/>Wed 2 - 4pm <br/>Thurs 1 - 3pm</td>
+			<td>Jean Du <br/>Arjun <br/>Augustine <br/>John Noe</td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>3020</td>
-			<td>Tues 1:30-3pm</td>
-			<td>Harsha</td>
+			<td>Mon 1:30 - 3:30pm <br/>Thurs 1 - 3pm</td>
+			<td>Jay <br/>Harsha</td>
 		</tr>
     </tbody>
+
+    <tbody>
+    	<tr>
+	    	<td>3025</td>
+			<td>Mon 4 - 6pm <br/>Fri 2 - 4pm</td>
+			<td>Steven <br/>Chris</td>
+		</tr>
+    </tbody>
+
+    <tbody>
+    	<tr>
+	    	<td>3030</td>
+			<td>Mon 3 - 5pm</td>
+			<td>Alejandro</td>
+		</tr>
+    </tbody>
+
+
+    <tbody>
+    	<tr>
+	    	<td>3040</td>
+			<td>Fri 1 - 3pm</td>
+			<td>Jay</td>
+		</tr>
+    </tbody>
+
+    <tbody>
+    	<tr>
+	    	<td>3040 / 3043</td>
+			<td>Mon 6 - 8pm <br/>Thurs 12 - 2pm</td>
+			<td>Stephen <br/>Tianhao</td>
+		</tr>
+    </tbody>
+
+    <tbody>
+    	<tr>
+	    	<td>3043</td>
+			<td>Tues 1:30 - 3:30pm</td>
+			<td>Jonathan</td>
+		</tr>
+    </tbody>
+
+    <tbody>
+    	<tr>
+	    	<td>3056</td>
+			<td>Mon 3 - 5pm <br/> Wed 3 - 5pm</td>
+			<td>Sidak <br/>Sidak</td>
+		</tr>
+    </tbody>
+
+    <tbody>
+    	<tr>
+	    	<td>3084</td>
+			<td>Tues 1:30 - 3:30pm <br/> Thurs 1 - 3pm</td>
+			<td>Jonathan <br/> John Noe</td>
+		</tr>
+    </tbody>
+
 
 </table>
 <br/>
