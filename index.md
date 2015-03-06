@@ -38,7 +38,7 @@ Founded in 1884, The Institute of Electrical and Electronics Engineers is the wo
 
 Learn more [about us](/about.html) and become a [member](/membership.html), or feel free to check out our opportunities in the [Innovation](/innovation.html) and [Hardware](/hardware.html) teams. Don't forget to take advantage of our ECE [tutoring](/tutoring.html) services!
 
-###What Goes on in IEEE?
+###What Goes On In IEEE?
 
 Here are some of our latest happenings and postings. Be sure to keep up with our newsletter and our [Facebook page](https://www.facebook.com/gtieee?fref=photo) to keep up to date with all of our events. Our [archives](/archives) pages has more of what you're looking for.
 
