@@ -30,7 +30,7 @@ author :
 #
 
 
-production_url : https://ieee.gatech.edu
+production_url : http://nadiaomar.github.io/blogsite
 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
