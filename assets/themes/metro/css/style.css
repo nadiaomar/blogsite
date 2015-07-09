@@ -1,0 +1,164 @@
+#logo {
+	height: 30px;
+	width: 30px;
+	padding-right: 3px;
+}
+
+#header {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: #063d68;
+    text-rendering: optimizeLegibility;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+    font-size: 2.125rem;
+}
+
+#header img {
+    max-width: 225px;
+    max-height: 160px;
+}
+
+.sponsor {
+    width: 150px;
+    height: 150px;
+}
+
+@media only screen and (min-width: 650px) {
+    .wrapper {
+        max-width: 620px;
+        max-height: 520px;
+        padding: 0px 20px 20px 20px;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+
+    .jcarousel-wrapper {
+        margin: 20px auto;
+        position: relative;
+    }
+
+
+    .jcarousel-wrapper .photo-credits {
+        position: absolute;
+    }
+
+    .jcarousel-wrapper .photo-credits a {
+        color: #fff;
+    }
+
+    /** Carousel **/
+
+    .jcarousel {
+        position: relative;
+        overflow: hidden;
+        width: 580px;
+        height: 520px;
+    }
+
+    .jcarousel ul {
+        width: 20000em;
+        position: relative;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .jcarousel li {
+        float: left;
+    }
+
+    .jcarousel li img {
+        width: 580px; 
+        max-height: 520px;
+        border: 10px solid #fff;
+        border-radius: 22px;      
+    }
+
+    /** Carousel Controls **/
+
+    .jcarousel-control-prev,
+    .jcarousel-control-next {
+        position: absolute;
+        top: 50%;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        background: #052846;
+        color: #fff;
+        text-decoration: none;
+        text-shadow: 0 0 1px #000;
+        font: 24px/27px Arial, sans-serif;
+        -webkit-border-radius: 30px;
+           -moz-border-radius: 30px;
+                border-radius: 30px;
+        -webkit-box-shadow: 0 0 2px #999;
+           -moz-box-shadow: 0 0 2px #999;
+                box-shadow: 0 0 2px #999;
+    }
+
+    .jcarousel-control-prev {
+        left: -50px;
+    }
+
+    .jcarousel-control-next {
+        right: -50px;
+    }
+
+    a.jcarousel-control-prev:hover, a.jcarousel-control-next:hover {
+        color: #fff;
+        /*background: #052846;*/
+    }
+
+    .jcarousel-control-prev:hover,
+    .jcarousel-control-next:hover {
+        display: block;
+    }
+
+    .jcarousel-control-prev.inactive,
+    .jcarousel-control-next.inactive {
+        opacity: .5;
+        cursor: default;
+    }
+
+    /** Carousel Pagination **/
+
+    .jcarousel-pagination {
+        position: absolute;
+        
+    }
+
+    .jcarousel-pagination a {
+        text-decoration: none;
+        display: inline-block;
+        
+        font-size: 11px;
+        line-height: 14px;
+        min-width: 14px;
+        
+        background: #fff;
+        color: #4E443C;
+        border-radius: 14px;
+        padding: 3px;
+        text-align: center;
+        
+        margin-right: 2px;
+        
+        opacity: .75;
+    }
+
+    .jcarousel-pagination a.active {
+        background: #4E443C;
+        color: #fff;
+        opacity: 1;
+        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.75);
+    }
+}
+
+@media (max-width: 749px) {
+    .wrapper {
+        display: none;
+    }
+}

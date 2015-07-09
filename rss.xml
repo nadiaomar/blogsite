@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Nadia's Blog</title>
+        <description>Nadia's Blog - Nadia Omar</description>
+        <link>https://ieee.gatech.edu</link>
+        <link>https://ieee.gatech.edu</link>
+        <lastBuildDate>2015-07-09T15:45:30-04:00</lastBuildDate>
+        <pubDate>2015-07-09T15:45:30-04:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>First Internship Experience</title>
+                <description>
+&lt;h3 id=&quot;my-first-internship-experience-at-home-depots-technology-center&quot;&gt;My First Internship Experience at Home Depot&amp;#8217;s Technology Center&lt;/h3&gt;
+&lt;p&gt;I worked at Home Depot&amp;#8217;s technology center in Atlanta for five weeks. There are currently fifteen college interns at this Home Depot facility that work on different projects in groups. Each project is unique in function as well as the process that is needed to fully develop the project. Essentially, Home Depot supplies the interns with equipment and funds to experiment on various devices and products. The idea is to create a think-tank type of environment with a cohort of students that are building and designing for the future. So far, Home Depot has worked on programming and developing drones, robots, apple watches, and mobile and web applications. In many ways, this process allows for more creativity on Home Depot&amp;#8217;s part because they are not redesigning the wheel, or in this case, redesigning the devices that are being worked on.&lt;/p&gt;
+
+&lt;p&gt;Because I don&amp;#8217;t have enough knowledge in programming by shadowing different groups. I started off the internship with learning the Python programming language with tutorials and small projects my mentor gave me that helped me apply what I learned. I was also working on creating a personal blog by using html to develop it. The bulk of the experience was used in creating an inventory system for Home Depot by using databases.&lt;/p&gt;
+
+&lt;p&gt;While working at Home Depot, I have been able to meet different types of people who have guidied me throughout the course of the internship. When shadowing different groups, I learned more about how to work together with people more effectively.Overseeing what the interns do has helped me gain a better understanding of how computer science can be applied to various fields and projects.This opportunity has given me the chance to test-out a prospective future career before actually commiting myself. 
+Overall, the experience at Home Depot has been very rewarding. The environment and other interns are very friendly and open and adjusting to the atmosphere wasn&amp;#8217;t very difficult. Everyone is comfortable with each other and the structure of the office is jovial.&lt;/p&gt;
+
+</description>
+                <link>https://ieee.gatech.edu/general/2015/Blogpost1</link>
+                <guid>https://ieee.gatech.edu/general/2015/Blogpost1</guid>
+                <pubDate>2015-07-09T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Blogpost#2</title>
+                <description>
+&lt;h3 id=&quot;something&quot;&gt;something&lt;/h3&gt;
+</description>
+                <link>https://ieee.gatech.edu/general/2015/blogpost2</link>
+                <guid>https://ieee.gatech.edu/general/2015/blogpost2</guid>
+                <pubDate>2015-07-08T00:00:00-04:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
